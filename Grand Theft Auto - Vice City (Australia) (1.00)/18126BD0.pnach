@@ -1,0 +1,8 @@
+gametitle=Grand Theft Auto - Vice City (Australia) (1.00) (PAL SLES_513.16)
+comment=Converted By GDX 
+
+\\Uncensored Blood And Rampages
+patch=1,EE,204AE3D4,extended,00000001
+
+\\Uncensored unknown content
+patch=1,EE,204AE3D8,extended,00000001
