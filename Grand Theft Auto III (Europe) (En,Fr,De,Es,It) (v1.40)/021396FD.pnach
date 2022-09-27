@@ -3,3 +3,6 @@ comment=Converted By GDX
 
 \\Uncensored Blood And Rampages
 patch=1,EE,2041534C,extended,00000001
+
+\\Uncensored Dismemberment
+patch=1,EE,20417130,extended,00000001
