@@ -1,7 +1,5 @@
 These cheat codes will reactivate blood and Rampage
 
-![image](https://i.imgur.com/DkeI3RP.png)
-
 How do I know my version of my Grand Theft Auto.
 
 Mount or Open your .ISO with Winrar and Open system.cnf and check VER =
