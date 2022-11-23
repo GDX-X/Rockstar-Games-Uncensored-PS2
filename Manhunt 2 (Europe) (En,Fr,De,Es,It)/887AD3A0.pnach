@@ -1,0 +1,26 @@
+gametitle=Manhunt 2 (Europe) (En,Fr,De,Es,It) (SLES_548.19)
+comment=Converted By GDX 
+
+\\Super Censored Kills
+patch=1,EE,205BCD70,extended,00000000
+patch=1,EE,205BCD74,extended,00000000
+patch=1,EE,205BCD78,extended,00000000
+
+\\Directors Cut Kills
+patch=1,EE,205BCD70,extended,42C80000
+patch=1,EE,205BCD74,extended,42C80000
+patch=1,EE,205BCD78,extended,42C80000
+
+\\Clear Cam Directors Cut Kills
+patch=1,EE,005B21E8,extended,00000000
+patch=1,EE,205BCD70,extended,42C80000
+patch=1,EE,205BCD74,extended,42C80000
+patch=1,EE,205BCD78,extended,42C80000
+
+\\Fully Nonfiltered Gore Mode
+patch=1,EE,205BCD60,extended,00000000
+patch=1,EE,205BCD64,extended,00000000
+patch=1,EE,005B21E8,extended,00000000
+patch=1,EE,205BCD70,extended,42C80000
+patch=1,EE,205BCD74,extended,42C80000
+patch=1,EE,205BCD78,extended,42C80000
