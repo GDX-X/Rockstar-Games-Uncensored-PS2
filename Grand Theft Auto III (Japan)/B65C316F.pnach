@@ -1,8 +1,8 @@
-gametitle=Grand Theft Auto III (Japan) (v1.03)(NTSC-J SLPM_653.82)
-comment=Converted By GDX 
+gametitle=Grand Theft Auto III (Japan) (v1.03) (NTSC-J SLPM_653.82)
+comment=Converted By GDX
 
-\\Uncensored Blood And Rampages
+[Uncensored Blood And Rampages]
 patch=1,EE,2040B794,extended,00000001
 
-\\Uncensored Dismemberment
+[Uncensored Dismemberment]
 patch=1,EE,2040D5B0,extended,00000001

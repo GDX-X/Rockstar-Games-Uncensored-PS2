@@ -1,8 +1,8 @@
-gametitle=Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (v1.60)(PAL SLES_503.30)
-comment=Converted By GDX 
+gametitle=Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (v1.60) (PAL SLES_503.30)
+comment=Converted By GDX
 
-\\Uncensored Blood And Rampages
+[Uncensored Blood And Rampages]
 patch=1,EE,204155CC,extended,00000001
 
-\\Uncensored Dismemberment
+[Uncensored Dismemberment]
 patch=1,EE,204173B0,extended,00000001

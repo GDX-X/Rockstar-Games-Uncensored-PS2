@@ -1,24 +1,24 @@
-"Manhunt 2 (USA) /VER 1.03 /ID SLUS_216.13"
+"Manhunt 2 (USA) /VER 1.03 /ID SLUS_216.13 /CRC 3B0ADBEF"
 Mastercode
 903CC5F8 0C0F3126
 
-\\Super Censored Kills
+[Super Censored Kills]
 205BCBF0 00000000
 205BCBF4 00000000
 205BCBF8 00000000
 
-\\Directors Cut Kills
+[Directors Cut Kills]
 205BCBF0 42C80000
 205BCBF4 42C80000
 205BCBF8 42C80000
 
-\\Clear Cam Directors Cut Kills
+[Clear Cam Directors Cut Kills]
 005B2068 00000000
 205BCBF0 42C80000
 205BCBF4 42C80000
 205BCBF8 42C80000
 
-\\Fully Nonfiltered Gore mode
+[Fully Nonfiltered Gore mode]
 205BCBE0 00000000
 205BCBE4 00000000
 005B2068 00000000

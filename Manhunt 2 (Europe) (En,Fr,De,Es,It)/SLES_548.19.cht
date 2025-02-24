@@ -1,24 +1,24 @@
-"Manhunt 2 (Europe) (En,Fr,De,Es,It) /ID SLES_548.19" 
+"Manhunt 2 (Europe) (En,Fr,De,Es,It) /VER 2.00 /ID SLES_548.19 /CRC 887AD3A0"
 Mastercode
-903CC778 0C0F3186 
+903CC778 0C0F3186
 
-\\Super Censored Kills
+[Super Censored Kills]
 205BCD70 00000000
 205BCD74 00000000
 205BCD78 00000000
 
-\\Directors Cut Kills
+[Directors Cut Kills]
 205BCD70 42C80000
 205BCD74 42C80000
 205BCD78 42C80000
 
-\\Clear Cam Directors Cut Kills
+[Clear Cam Directors Cut Kills]
 005B21E8 00000000
 205BCD70 42C80000
 205BCD74 42C80000
 205BCD78 42C80000
 
-\\Fully Nonfiltered Gore Mode
+[Fully Nonfiltered Gore Mode]
 205BCD60 00000000
 205BCD64 00000000
 005B21E8 00000000

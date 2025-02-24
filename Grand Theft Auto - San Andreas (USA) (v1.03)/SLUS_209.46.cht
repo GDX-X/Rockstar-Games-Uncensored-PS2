@@ -1,0 +1,23 @@
+"Grand Theft Auto - San Andreas (USA) (v1.03) /VER 1.03 /ID SLUS_209.46 /CRC 399A49CA"
+Mastercode
+9053EB10 0C14FA6C
+
+[Always Dinner Date]
+D06B2608 00001002
+206B2608 00000802
+D06B2608 00002002
+206B2608 00000802
+
+[Enable All Girlfriends]
+\\If the Heart icons do not appear simply swing by their homes to mark them. 
+\\Denise Behind CJs House Michelle Driving School in SF Helena Flint Range Katie 
+\\Paradise district of SF Millie Prickle Pine district of LV
+006B2648 0000003F
+
+[Uncensored Hot Coffee] 
+\\DO NOT SAVE.! MAY corrupt your save : After adult scene. Press R1 R2 L1 L2 buttons at the same time to escape
+206B32FC 00000000
+E003F0FF 00700942
+2088D760 4C333132
+2088D764 3244334C
+2088D768 32000052

@@ -1,23 +1,23 @@
-gametitle=Maanhunt 2 (USA) (NTSC SLUS_216.13)
-comment=Converted By GDX 
+gametitle=Maanhunt 2 (USA) (v1.03) (NTSC SLUS_216.13)
+comment=Converted By GDX
 
-\\Super Censored Kills
+[Super Censored Kills]
 patch=1,EE,205BCBF0,extended,00000000
 patch=1,EE,205BCBF4,extended,00000000
 patch=1,EE,205BCBF8,extended,00000000
 
-\\Directors Cut Kills
+[Directors Cut Kills]
 patch=1,EE,205BCBF0,extended,42C80000
 patch=1,EE,205BCBF4,extended,42C80000
 patch=1,EE,205BCBF8,extended,42C80000
 
-\\Clear Cam Directors Cut Kills
+[Clear Cam Directors Cut Kills]
 patch=1,EE,005B2068,extended,00000000
 patch=1,EE,205BCBF0,extended,42C80000
 patch=1,EE,205BCBF4,extended,42C80000
 patch=1,EE,205BCBF8,extended,42C80000
 
-\\Fully Nonfiltered Gore Mode
+[Fully Nonfiltered Gore Mode]
 patch=1,EE,205BCBE0,extended,00000000
 patch=1,EE,205BCBE4,extended,00000000
 patch=1,EE,005B2068,extended,00000000
